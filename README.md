@@ -1,4 +1,4 @@
-## fleck + jax demo for [MIT Stars & Planets Workshop 2025](https://sites.google.com/mit.edu/starsplanets2025/)
+## fleck + shone demo for [MIT Stars & Planets Workshop 2025](https://sites.google.com/mit.edu/starsplanets2025/)
 
 To install the requirements, run:
 
