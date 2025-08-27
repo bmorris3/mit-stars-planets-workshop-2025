@@ -4,3 +4,4 @@ ipywidgets
 expecto
 git+https://github.com/bmorris3/shone@condensation
 git+https://github.com/bmorris3/fleck
+jupyterlab
