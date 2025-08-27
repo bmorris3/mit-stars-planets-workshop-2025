@@ -2,13 +2,9 @@
 
 To install the requirements, run:
 
-.. code-block:: bash
-
     python -m pip install -U -r requirements.txt
 
 To launch the notebook, run:
-
-.. code-block:: bash
 
     jupyter lab fleck-demo.ipynb
 
